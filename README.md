@@ -14,3 +14,5 @@ Further modifications entailed the creation of models and associations for produ
 
 <br>
 
+https://github.com/trevormcgill/e-commerce-backend/assets/124531579/5369a507-7607-407a-bb38-adca3bd95375
+
